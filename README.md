@@ -50,3 +50,6 @@ In **Thomas and Bob**, players navigate through levels filled with challenges th
       ```
       sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-network-d.lib;sfml-audio-d.lib;
       ```
+## Credits:
+
+Thomas And Bob is based on ideas and concepts from "Beginning C++ Game Programming" by John Horton. Special thanks to the SFML development team for providing the graphics library that powers the game.
