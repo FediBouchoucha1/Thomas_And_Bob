@@ -1,0 +1,115 @@
+﻿  DetectCollisions.cpp
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(13,16): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(13,16): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(13,16): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(13,16): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(13,16): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(14,17): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(14,17): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(14,17): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(14,17): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(14,17): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,81): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,81): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,81): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,81): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,46): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,46): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,46): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(39,46): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(45,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(54,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(54,19): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(54,19): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(54,19): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(54,19): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(55,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(55,18): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(55,18): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(55,18): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(55,18): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\DetectCollisions.cpp(62,47): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Draw.cpp
+  Engine.cpp
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(10,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(10,44): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(10,44): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(10,44): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(10,44): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(11,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(11,44): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(11,44): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(11,44): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(11,44): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,52): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,52): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,52): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,52): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,38): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,38): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,38): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\Engine.cpp(12,38): warning C4244:         ]
+  Input.cpp
+  LoadLevel.cpp
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\LoadLevel.cpp(27,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\LoadLevel.cpp(28,39): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Main.cpp
+  PopulateEmitters.cpp
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(9,22): warning C4858: discarding return value: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,61): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,61): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,61): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,61): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,61): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,50): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,50): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,50): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,50): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,50): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,37): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,37): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,37): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,37): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,22): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,22): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,22): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(24,22): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,57): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,57): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,57): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,57): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,42): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,42): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,42): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(27,42): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(32,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(32,31): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(32,31): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(32,31): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(32,31): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(33,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(33,30): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(33,30): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(33,30): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(33,30): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(34,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(34,40): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(34,40): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(34,40): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(34,40): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(35,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(35,41): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(35,41): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(35,41): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\TWL\PopulateEmitters.cpp(35,41): warning C4244:         ]
+  Update.cpp
+  Generating Code...
+  TWL.vcxproj -> C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\4thGame\TWL\x64\Debug\TWL.exe
